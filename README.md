@@ -27,12 +27,12 @@ Fitness App is a mobile application designed to help users track and improve the
 2. Install dependencies:
 
     ```bash
-    Sao chép mã
+    Coppy code
     flutter pub get
 3. Run the app:
 
     ```bash
-    Sao chép mã
+    Coppy code
     flutter run
 ## Configuring the REST API
 1. Configure the API in the app’s configuration file (e.g., lib/config/api_config.dart) to connect to your backend server.
